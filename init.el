@@ -1,4 +1,6 @@
 
+;; comment test
+
 ;; settings and general behavior
 (setq inhibit-startup-message t)        ; start with a blank screen
 (setq require-final-newline 'askme)	; when saving files ...
